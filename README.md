@@ -14,7 +14,7 @@ Original guide is [here](https://www.keychatter.com/2019/04/09/build-guide-ergod
 
 # Current layout
 
-<img src="./layout.JPG" alt="layout" />
+<img src="./layout.png" alt="layout" />
 
 
 
